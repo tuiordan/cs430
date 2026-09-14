@@ -1,0 +1,167 @@
+Housing_Status,Monthly_Housing_Cost,Moves_Last_3_Years,Utility_Disconnection_Risk,Monthly_LGE_Bill,Monthly_Water_Bill,Eviction_Record,Transportation_Need_Score,Has_Car,Bus_Use
+Renter - past due rent,1200.0,0,Yes,225.0,200.0,No,1,Yes,Never
+Renter - past due rent,0.0,1,No,217.0,144.0,No,2,Yes,Never
+Staying with friends or family,800.0,4,No,100.0,100.0,No,5,Yes,Sometimes
+Homeless,0.0,2,No,0.0,0.0,Yes,0,Yes,Never
+Homeless,0.0,3,No,0.0,0.0,Yes,3,Yes,Rarely
+Renter - no rent past due,1700.0,1,Yes,175.0,100.0,No,5,No,Sometimes
+Renter - no rent past due,0.0,0,No,200.0,175.0,No,0,Yes,Never
+Renter - past due rent,784.0,0,Yes,170.0,0.01,No,4,No,Often
+Homeless,0.0,0,No,0.0,0.0,No,4,Yes,Never
+Renter - no rent past due,1240.0,More than 5,No,0.0,0.0,No,2,No,Rarely
+Renter - no rent past due,800.0,0,Maybe,170.0,40.0,Yes,1,No,Rarely
+Renter - past due rent,1000.0,2,Yes,215.0,86.0,No,0,Yes,Never
+Renter - no rent past due,0.0,2,No,115.0,0.0,No,0,Yes,Sometimes
+Renter - no rent past due,1700.0,1,Yes,180.0,103.0,No,3,No,Often
+Renter - past due rent,800.0,1,Yes,60.0,77.0,No,2,Yes,Often
+Staying at extended stay hotel or short-term housing,125.0,2,Yes,0.0,0.0,Not sure,1,No,Often
+Renter - no rent past due,0.0,0,Yes,400.0,0.0,No,3,Yes,Never
+Renter - past due rent,800.0,1,Yes,70.0,77.0,No,5,Yes,Never
+Renter - past due rent,850.0,0,No,125.0,0.0,No,5,No,Sometimes
+Renter - no rent past due,300.0,3,No,70.0,0.0,Yes,2,No,Often
+Renter - no rent past due,248.6,More than 5,No,0.0,0.0,No,3,No,Often
+Renter - no rent past due,1700.0,1,Yes,200.0,100.0,No,3,Yes,Often
+Renter - no rent past due,0.0,0,Yes,180.0,0.0,No,5,No,Never
+Renter - past due rent,1000.0,1,No,200.0,150.0,No,5,No,Rarely
+Renter - no rent past due,1050.0,More than 5,No,400.0,0.0,Not sure,3,Yes,Sometimes
+Renter - past due rent,1050.0,More than 5,No,400.0,0.0,Not sure,3,Yes,Sometimes
+Staying at extended stay hotel or short-term housing,370.0,3,No,0.0,0.0,No,4,No,Often
+Staying with friends or family,0.0,0,No,0.0,0.0,No,5,No,Sometimes
+Homeless,900.0,2,No,0.0,0.0,No,0,Yes,Never
+Renter - past due rent,871.0,1,No,96.0,0.0,No,0,Yes,Sometimes
+Renter - past due rent,971.0,1,Maybe,287.0,0.0,No,2,No,Often
+Renter - no rent past due,1050.0,More than 5,Maybe,400.0,0.0,Yes,3,Yes,Sometimes
+Renter - no rent past due,0.0,1,No,150.0,0.0,Yes,3,Yes,Never
+Renter - no rent past due,1000.0,1,No,200.0,120.0,No,0,Yes,Never
+Renter - no rent past due,0.0,0,No,190.0,0.0,No,1,No,Often
+Renter - past due rent,1000.0,More than 5,No,100.0,60.0,No,5,No,Sometimes
+Staying at extended stay hotel or short-term housing,300.0,3,No,0.0,0.0,No,0,No,Often
+Staying at extended stay hotel or short-term housing,1200.0,4,Yes,300.0,0.0,Yes,4,Yes,Never
+Renter - no rent past due,327.0,2,No,0.0,0.0,No,1,No,Sometimes
+Renter - past due rent,564.0,0,Yes,250.0,70.0,No,0,No,Sometimes
+Staying at extended stay hotel or short-term housing,2000.0,3,No,0.0,0.0,Yes,5,No,Sometimes
+Staying with friends or family,0.0,More than 5,No,0.0,0.0,No,4,Yes,Never
+Homeless,0.0,2,No,0.0,0.0,Yes,0,Yes,Never
+Renter - past due rent,1100.0,1,Yes,200.0,0.0,Yes,0,Yes,Never
+Staying with friends or family,400.0,1,No,100.0,100.0,No,4,Yes,Never
+Renter - no rent past due,1100.0,3,No,200.0,0.0,Yes,5,Yes,Sometimes
+Renter - no rent past due,1400.0,5,No,200.0,100.0,No,4,No,Rarely
+Homeless,0.0,2,No,0.0,0.0,No,0,Yes,Never
+Renter - no rent past due,0.0,2,No,100.0,0.0,No,4,Yes,Sometimes
+Renter - no rent past due,296.0,2,No,200.0,150.0,Yes,0,Yes,Never
+Renter - no rent past due,0.0,1,Yes,150.0,0.0,Yes,1,Yes,Never
+Renter - no rent past due,350.0,More than 5,No,0.0,0.0,No,2,Yes,Never
+Renter - past due rent,350.0,4,No,0.0,0.0,No,1,No,Sometimes
+Staying at extended stay hotel or short-term housing,1100.0,2,No,200.0,0.0,Yes,4,No,Often
+Homeless,0.0,More than 5,No,0.0,0.0,No,3,No,Often
+Staying at extended stay hotel or short-term housing,1100.0,2,No,0.0,0.0,Yes,2,No,Often
+Staying at extended stay hotel or short-term housing,1100.0,2,No,0.0,0.0,No,3,No,Sometimes
+Renter - past due rent,700.0,1,No,0.0,0.0,Yes,2,No,Often
+Renter - past due rent,1200.0,1,No,80.0,40.0,No,0,Yes,Never
+Homeless,0.0,2,No,0.0,0.0,No,0,No,Rarely
+Homeless,0.0,0,No,0.0,0.0,No,5,No,Often
+Staying at extended stay hotel or short-term housing,1100.0,2,No,0.0,0.0,Yes,3,No,Often
+Homeless,0.0,2,No,0.0,0.0,No,4,No,Often
+Homeless,0.0,0,No,0.0,0.0,No,4,No,Sometimes
+Renter - no rent past due,325.0,More than 5,Yes,300.0,0.0,No,4,No,Often
+Staying at extended stay hotel or short-term housing,550.0,0,No,0.0,0.0,No,0,Yes,Rarely
+Homeless,0.0,2,No,0.0,0.0,Yes,3,No,Often
+Renter - no rent past due,0.0,2,No,100.0,0.0,No,0,Yes,Never
+Renter - past due rent,1014.0,1,Yes,140.0,0.0,No,1,Yes,Sometimes
+Homeless,0.0,2,No,0.0,0.0,Yes,4,No,Often
+Renter - no rent past due,248.0,More than 5,No,0.0,0.0,No,3,No,Often
+Renter - no rent past due,0.0,0,Yes,345.0,0.0,No,0,Yes,Never
+Renter - no rent past due,325.0,3,No,500.0,0.0,No,2,Yes,Never
+Renter - no rent past due,0.0,4,No,0.0,0.0,Yes,5,Yes,Never
+Renter - no rent past due,325.0,More than 5,Yes,325.0,0.0,No,4,No,Often
+Staying with friends or family,0.01,3,No,0.0,0.0,No,0,Yes,Never
+Staying at extended stay hotel or short-term housing,350.0,3,No,0.0,0.0,Yes,1,No,Often
+Renter - no rent past due,400.0,1,No,200.0,120.0,Not sure,0,Yes,Never
+Renter - past due rent,975.0,2,Yes,175.0,0.0,Yes,5,No,Often
+Renter - no rent past due,700.0,4,No,170.0,0.0,Yes,2,Yes,Sometimes
+Renter - past due rent,1200.0,5,Yes,190.0,0.0,No,1,Yes,Never
+Renter - past due rent,895.0,0,No,160.0,0.0,No,5,No,Never
+Renter - no rent past due,0.0,3,No,300.0,0.0,No,3,No,Sometimes
+Renter - past due rent,1059.0,2,No,130.0,0.0,No,0,Yes,Never
+Renter - no rent past due,0.0,1,No,20.0,0.0,No,0,Yes,Rarely
+Renter - past due rent,1200.0,5,Maybe,100.0,0.0,No,0,Yes,Rarely
+Staying at extended stay hotel or short-term housing,0.0,3,No,115.0,80.0,Yes,5,No,Often
+Renter - past due rent,1183.0,4,No,160.0,117.0,Yes,1,Yes,Never
+Renter - past due rent,500.0,0,No,50.0,50.0,No,2,Yes,Never
+Renter - no rent past due,0.01,1,Yes,220.0,0.01,No,5,Yes,Rarely
+Renter - past due rent,1100.0,1,No,67.18,0.01,Yes,1,Yes,Sometimes
+Renter - past due rent,650.0,2,No,0.01,0.01,No,4,No,Never
+Renter - no rent past due,1693.0,1,Yes,155.0,0.01,No,3,No,Sometimes
+Renter - no rent past due,16.0,1,Yes,0.01,0.01,No,3,No,Never
+Renter - no rent past due,1740.0,1,Yes,117.0,118.0,No,1,Yes,Never
+Renter - no rent past due,344.0,3,No,0.1,0.1,No,5,No,Often
+Renter - no rent past due,0.01,2,No,155.0,0.01,No,0,Yes,Rarely
+Renter - no rent past due,382.0,0,No,200.0,0.01,No,3,Yes,Never
+Renter - past due rent,750.0,2,Yes,130.0,0.01,Yes,4,No,Sometimes
+Renter - past due rent,1180.0,0,No,91.0,0.01,No,1,Yes,Never
+Renter - no rent past due,800.0,0,No,0.01,0.01,No,3,No,Never
+Renter - no rent past due,550.0,3,No,150.0,0.01,Yes,2,Yes,Never
+Homeless,0.01,More than 5,Yes,0.01,0.01,No,4,No,Often
+Renter - past due rent,1100.0,2,Yes,200.0,0.01,No,1,Yes,Sometimes
+Renter - no rent past due,1100.0,0,No,440.0,75.0,No,0,Yes,Never
+Homeless,0.01,2,No,350.0,1000.0,No,4,No,Often
+Staying with friends or family,0.01,4,Yes,270.0,0.01,No,3,No,Sometimes
+Renter - no rent past due,350.0,4,No,40.0,40.0,Yes,0,Yes,Never
+Renter - no rent past due,1200.0,2,No,200.0,0.01,No,1,No,Often
+Staying at extended stay hotel or short-term housing,1468.0,1,No,200.0,100.0,No,2,Yes,Sometimes
+Renter - past due rent,1560.0,5,No,100.0,0.01,No,5,No,Never
+Renter - no rent past due,471.0,1,No,175.0,140.0,Yes,0,Yes,Never
+Homeless,0.01,0,No,0.01,0.01,Yes,5,No,Often
+Renter - past due rent,0.01,2,No,0.01,0.01,No,5,No,Often
+Renter - past due rent,1199.0,2,No,300.0,0.001,Yes,1,Yes,Never
+Renter - past due rent,1150.0,1,No,300.0,125.0,No,5,Yes,Never
+Renter - past due rent,1205.0,1,Yes,145.0,130.0,Not sure,4,No,Sometimes
+Staying at extended stay hotel or short-term housing,0.01,More than 5,No,0.01,0.01,No,1,No,Often
+Renter - past due rent,10.0,1,No,0.01,0.01,No,3,No,Often
+Staying with friends or family,0.001,3,No,0.01,0.01,No,3,No,Never
+Staying with friends or family,0.001,4,Yes,180.0,200.0,Yes,3,No,Never
+Renter - past due rent,149.0,2,No,100.0,0.001,No,5,No,Often
+Staying with friends or family,320.0,2,No,260.0,0.0001,Yes,0,Yes,Never
+Renter - past due rent,1735.0,1,Yes,120.0,0.001,No,2,Yes,Never
+Renter - past due rent,1100.0,1,No,115.0,1.0,No,3,No,Often
+Renter - no rent past due,1.0,2,Yes,250.0,1.0,No,0,Yes,Never
+Renter - past due rent,895.0,0,Yes,130.0,0.001,No,0,Yes,Never
+Renter - past due rent,564.0,0,Yes,500.0,70.0,No,0,No,Often
+Renter - no rent past due,0.001,2,Yes,143.0,0.001,No,3,No,Never
+Renter - past due rent,800.0,0,No,120.0,0.01,No,4,No,Often
+Staying with friends or family,0.001,2,No,150.0,80.0,No,5,Yes,Never
+Renter - past due rent,500.0,2,No,0.0001,0.0001,Yes,5,No,Often
+Renter - past due rent,1551.0,0,No,175.0,84.0,Yes,0,Yes,Rarely
+Homeless,0.01,0,No,121.0,0.0001,No,3,No,Never
+Renter - no rent past due,720.0,1,No,120.0,25.0,No,3,Yes,Rarely
+Renter - past due rent,850.0,1,No,97.0,0.001,No,2,Yes,Sometimes
+Homeless,1.0,3,No,1.0,1.0,No,0,Yes,Never
+Renter - no rent past due,1025.0,0,Yes,46247.0,50.0,No,3,Yes,Sometimes
+Renter - no rent past due,734.0,0,Maybe,150.0,1.0,No,4,Yes,Often
+Staying at extended stay hotel or short-term housing,350.0,3,No,50.0,50.0,No,4,No,Often
+Renter - past due rent,1600.0,0,Yes,150.0,35.0,No,4,Yes,Rarely
+Renter - no rent past due,1200.0,1,No,200.0,200.0,Not sure,2,No,Often
+Renter - no rent past due,1800.0,1,No,200.0,140.0,Not sure,2,Yes,Never
+Renter - no rent past due,28.0,2,Yes,130.0,240.0,No,4,No,Often
+Renter - past due rent,237.0,4,Maybe,150.0,1.0,Not sure,5,No,Never
+Renter - no rent past due,1600.0,2,No,200.0,200.0,Yes,3,No,Often
+Renter - no rent past due,1300.0,2,Yes,3000.0,300.0,Yes,0,Yes,Rarely
+Own home - mortgage past due,1376.02,0,Maybe,300.0,340.0,Not sure,0,Yes,Never
+Renter - no rent past due,550.0,1,Maybe,225.0,150.0,No,1,Yes,Rarely
+Renter - no rent past due,437.0,3,No,1.0,1.0,No,5,No,Rarely
+Renter - no rent past due,148.0,1,No,111.54,0.5,No,1,Yes,Never
+Renter - past due rent,805.0,0,No,268.63,268.0,No,0,No,Sometimes
+Staying with friends or family,1000.0,3,No,0.001,0.001,No,2,Yes,Never
+Renter - past due rent,1700.0,1,No,150.0,150.0,No,0,Yes,Never
+Renter - past due rent,1425.0,1,No,120.0,95.0,No,4,No,Often
+Renter - no rent past due,950.0,1,No,100.0,58.0,Yes,2,Yes,Never
+Renter - no rent past due,950.0,1,No,100.0,50.0,Yes,2,Yes,Never
+Renter - no rent past due,192.0,2,No,0.01,0.01,Yes,4,No,Sometimes
+Renter - no rent past due,650.0,0,Maybe,200.0,1.0,Not sure,4,No,Often
+Staying with friends or family,550.0,More than 5,No,70.0,0.01,No,5,No,Often
+Renter - no rent past due,1500.0,3,Maybe,75.0,60.0,No,2,Yes,Sometimes
+Renter - no rent past due,1500.0,3,No,150.0,60.0,Yes,3,Yes,Sometimes
+Renter - no rent past due,0.0,2,No,30.0,0.0,No,0,Yes,Never
+Renter - no rent past due,18.0,0,No,0.0,0.0,No,1,No,Never
+Renter - past due rent,710.0,1,No,0.0,0.0,No,3,Yes,Rarely
+Homeless,0.0,1,No,0.0,0.0,No,5,Yes,Sometimes
